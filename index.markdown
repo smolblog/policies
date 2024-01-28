@@ -14,4 +14,9 @@ repository][gh].
 
 ## For hosted services
 
-- [Acceptable Use Policy](aup)
+- [Terms of Service](tos)
+
+## For some code contributions
+
+- [Contributor License Agreement](cla)
+
